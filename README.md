@@ -44,12 +44,16 @@ Input Selection:
 Select a 500-word article titled “The Basics of Blockchain Technology.”
 Platform Selection:
 Use four platforms — ChatGPT, Gemini, Claude, and Copilot.
+
+
 Prompting Techniques:
 Apply the following methods for each AI platform:
 Zero-shot prompting
 Few-shot prompting
 Chain-of-thought prompting
 Role-based prompting
+
+
 Execution Steps:
 Enter the same article text into each platform.
 Apply each prompting technique separately.
@@ -57,6 +61,8 @@ Record the time taken to generate responses.
 Save the generated summaries for comparison.
 Evaluation Parameters:
 Each summary is rated (out of 5) on:
+
+
 Accuracy: Correctness of key technical points.
 Coherence: Logical flow and connection of ideas.
 Simplicity: Ease of understanding for students.
@@ -123,10 +129,12 @@ Zero-shot
 
 DISCUSSION
 ChatGPT provided the most balanced and context-aware summaries, especially when using Role-based prompting, as it adapted tone and style effectively for students.
+
 Gemini performed well in terms of fluency and speed, though it occasionally simplified too much.
 Claude produced ethically balanced and clear summaries but lacked deeper technical precision.
 Copilot responded fastest but provided less detailed or coherent explanations.
 Among prompting methods:
+
 Role-based prompting improved clarity and engagement.
 Chain-of-thought prompting enhanced logical flow but increased response time.
 Few-shot prompting improved consistency when prior examples were relevant.
@@ -143,6 +151,6 @@ After evaluating different combinations, it was observed that:
 Thus, Role-based prompting with ChatGPT is the most effective method for AI-powered summarization in educational content creation.
 
 ## Result
-Thus the program is executed.
+Thus the prompt is executed.
 
 
